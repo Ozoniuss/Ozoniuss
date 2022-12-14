@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 🦘
+
+My name is Alex and welcome to my GitHub! (It's a bit of a mess now 😅 but I'm cleaning it up in my free time) I'm currenlty a Master Student, passionate about programming and this is the place where I keep most of my interesting stuff. Feel free to browse 🖱️
 
 <!--
 **Ozoniuss/Ozoniuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏋️‍♂️ I'm actively solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check them out [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
+- I love music 💿📻🎼🎧 and play guitar 🎸
