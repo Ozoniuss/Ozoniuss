@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏋️‍♂️ I'm done solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check out my solutions and notes [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
+- 🏋️‍♂️ I'm done solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check out my contest review and solutions [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
 - I'm more of a mathematician 📐, but I do enjoy solving coding problems 💻. Check out [my algorithms repository](https://github.com/Ozoniuss/Algorithms) to view some of those!
 - I love music 💿📻🎼🎧 and play guitar 🎸
