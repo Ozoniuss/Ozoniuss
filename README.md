@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - I love music 💿📻🎼🎧 and play guitar 🎸. I did post a couple of solos on my [youtube channel.](https://www.youtube.com/@ozoniuss1463/videos)
 
 My other repo where I'm building stuff with my friends: https://github.com/orgs/theshamans/repositories
+
+<details>
+<summary><b>My open source contributions</b></summary>
+  
+- https://github.com/spf13/viper/issues/1505
+  
+</details>
