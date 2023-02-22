@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I most enjoy implementing packages and small APIs. Check out my [configer](https://github.com/Ozoniuss/configer) package that I use to configure my projects and my [stdlog](https://github.com/Ozoniuss/stdlog) package that I use for quick logging.
 - 🏋️‍♂️ I'm done solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check out my contest review and solutions [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
 - I'm more of a mathematician 📐, but I do enjoy solving coding problems 💻. Check out [my algorithms repository](https://github.com/Ozoniuss/Algorithms) to view some of those!
 - I love music 💿📻🎼🎧 and play guitar 🎸. I did post a couple of solos on my [youtube channel.](https://www.youtube.com/@ozoniuss1463/videos)
