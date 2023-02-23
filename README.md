@@ -29,5 +29,6 @@ My other repo where I'm building stuff with my friends: https://github.com/orgs/
   
 - https://github.com/spf13/viper/issues/1505
 - https://github.com/spf13/viper/discussions/1513
+- https://github.com/spf13/viper/issues/1514
   
 </details>
