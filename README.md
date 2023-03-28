@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm currently writing a short article about microservices as part of one of my Master's homework, check it out [here!](https://github.com/Ozoniuss/Masters-Projects/tree/main/microservices) Feedback is always welcome 🤭
 - I most enjoy implementing packages and small APIs. Check out my [configer](https://github.com/Ozoniuss/configer) package that I use to configure my projects and my [stdlog](https://github.com/Ozoniuss/stdlog) package that I use for quick logging.
 - Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? So do I! Check out [this](https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing) and [this](https://github.com/Ozoniuss/Masters-Projects/tree/main/theoretical-distributed).
 - 🏋️‍♂️ I'm done solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check out my contest review and solutions [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
