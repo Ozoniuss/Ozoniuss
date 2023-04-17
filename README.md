@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💻 Personal [website](https://www.ozoniuss.com/me/)
+
 - My short article about microservices is complete now, check it out [here!](https://github.com/Ozoniuss/Masters-Projects/tree/main/microservices) Feedback is always welcome 🤭
 - I enjoy implementing packages and small APIs. Check out my [configer](https://github.com/Ozoniuss/configer) package that I use to configure my projects and my [stdlog](https://github.com/Ozoniuss/stdlog) package that I use for quick logging.
 - I'm pretty bad at managing my expenses 💵. For that reason, I decided to built an app for it! [Casheer](https://github.com/Ozoniuss/casheer) is my [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) backend and [Clisheer](https://github.com/Ozoniuss/clisheer) is a command-line tool I wrote for interacting with it.
