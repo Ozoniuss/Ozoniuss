@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💻 Personal [website](https://www.ozoniuss.com/me/) (may be down until I decide to pay cloud providers)
 
 - My short article about microservices is complete now, check it out [here!](https://github.com/Ozoniuss/Masters-Projects/tree/main/microservices) Feedback is always welcome 🤭
-- I enjoy implementing packages and small APIs. Check out my [configer](https://github.com/Ozoniuss/configer) package that I use to configure my projects and my [stdlog](https://github.com/Ozoniuss/stdlog) package that I use for quick logging.
+- I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
 - I'm pretty bad at managing my expenses 💵 so I decided to built an app for that [Casheer](https://github.com/Ozoniuss/casheer) is my [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) backend and [Clisheer](https://github.com/Ozoniuss/clisheer) is a command-line tool I wrote for interacting with it. I've put a lot of effort intro structuring and implementing Casheer and I'm quite proud of the result, can't wait for it to be finished.
 - Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? So do I! Check out [this](https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing) and [this](https://github.com/Ozoniuss/Masters-Projects/tree/main/theoretical-distributed). The short program [context madness](https://github.com/Ozoniuss/misc/tree/main/context-madness) I wrote is also pretty cool.
 - As programmers, we sometimes get to working on pretty random stuff 💣, just for the fun of it. My [Misc](https://github.com/Ozoniuss/misc) repo contains those moments.
