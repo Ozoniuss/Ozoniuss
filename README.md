@@ -1,6 +1,6 @@
-### Hi there! 🦘
+### Hi there 🦘 (those who know me understand the emoji)
 
-My name is Alex and welcome to my GitHub! (It's a bit of a mess now 😅 but I'm cleaning it up in my free time) I'm currently a Master Student, passionate about programming and this is the place where I keep most of my interesting stuff. Feel free to browse 🖱️
+Welcome to my GitHub. There are interesting stuff here, feel free to explore.
 
 <!--
 **Ozoniuss/Ozoniuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Personal [website](https://www.ozoniuss.com/me/)
+💻 Personal [website](https://www.ozoniuss.com/me/) (may be down until I decide to pay cloud providers)
 
 - My short article about microservices is complete now, check it out [here!](https://github.com/Ozoniuss/Masters-Projects/tree/main/microservices) Feedback is always welcome 🤭
 - I enjoy implementing packages and small APIs. Check out my [configer](https://github.com/Ozoniuss/configer) package that I use to configure my projects and my [stdlog](https://github.com/Ozoniuss/stdlog) package that I use for quick logging.
