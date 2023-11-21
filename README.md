@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 - https://github.com/gin-gonic/gin/issues/3546
 - https://github.com/gin-gonic/gin/pull/3329
 - https://github.com/gin-gonic/gin/issues/3680
+- https://github.com/dominikbraun/graph/pull/161
   
 </details>
