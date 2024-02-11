@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 My [personal website](https://about.ozoniuss.com/) is up again because I found out I can use cloud providers without having to pay them (thank you [Backblaze B2 and Cloudflare](https://www.backblaze.com/blog/backblaze-and-cloudflare-partner-to-provide-free-data-transfer/)).
+💻 My [personal website](https://about.ozoniuss.com/) is up again because I found out I can use cloud providers without having to pay them (thank you [Backblaze B2 and Cloudflare](https://www.backblaze.com/blog/backblaze-and-cloudflare-partner-to-provide-free-data-transfer/)). The source code is also now [publicly available](https://github.com/Ozoniuss/aboutv2).
 
-- Avent of Code is right around the corner! Let's get ready: here's my [brand new repo](https://github.com/Ozoniuss/Advent-of-Code) and an [article I wrote](https://medium.com/@ozoniuss/preparing-for-advent-of-code-2023-8891a2df6f6c) about me getting ready ✍️
+- Avent of Code was definitely a ride this year, where I was forced to remember how waking up to go to school feels like. Check out my work for this year [here.](https://github.com/Ozoniuss/Advent-of-Code/tree/main/advent-of-code-2023) 
 - I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
 - I'm pretty bad at managing my expenses 💵 so I decided to built an app for that [Casheer](https://github.com/Ozoniuss/casheer) is my [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) backend and [Clisheer](https://github.com/Ozoniuss/clisheer) is a command-line tool I wrote for interacting with it. I've put a lot of effort intro structuring and implementing Casheer and I'm quite proud of the result, can't wait for it to be finished.
 - Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? Check out some of the things from my [master's]([https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing](https://github.com/Ozoniuss/Masters-Projects/tree/main)) repository. The short program [context madness](https://github.com/Ozoniuss/misc/tree/main/context-madness) I wrote is also pretty cool.
