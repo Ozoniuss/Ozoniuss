@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 - Avent of Code was definitely a ride this year, where I was forced to remember how waking up to go to school feels like. Check out my work for this year [here.](https://github.com/Ozoniuss/Advent-of-Code/tree/main/advent-of-code-2023) 
 - I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
-- I'm pretty bad at managing my expenses 💵 so I decided to built an app for that [Casheer](https://github.com/Ozoniuss/casheer) is my [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) backend and [Clisheer](https://github.com/Ozoniuss/clisheer) is a command-line tool I wrote for interacting with it. I've put a lot of effort intro structuring and implementing Casheer and I'm quite proud of the result, can't wait for it to be finished.
+- My expense manager 💵 [Casheer](https://github.com/Ozoniuss/casheer) is shaping up, now coming with a shitty [UI](https://github.com/Ozoniuss/casheer/tree/main/ui) that is actually functional and I built on my own. I have lost the battle of trying to stay away from frontend.
 - Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? Check out some of the things from my [master's]([https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing](https://github.com/Ozoniuss/Masters-Projects/tree/main)) repository. The short program [context madness](https://github.com/Ozoniuss/misc/tree/main/context-madness) I wrote is also pretty cool.
 - As programmers, we sometimes get to working on pretty random stuff 💣, just for the fun of it. My [Misc](https://github.com/Ozoniuss/misc) repo contains those moments.
-- 🏋️‍♂️ I'm done solving the [2022 Advent of Code](https://adventofcode.com/2022/) problems. Check out my contest review and solutions [here!](https://github.com/Ozoniuss/Algorithms/tree/master/advent-of-code-2022)
 - I'm more of a mathematician 📐, but I do enjoy solving coding problems 💻. Check out [my algorithms repository](https://github.com/Ozoniuss/Algorithms) to view some of those!
-- I love music 💿📻🎼🎧 and play guitar 🎸. I did post a couple of solos on my [youtube channel.](https://www.youtube.com/@ozoniuss1463/videos)
+- I love music 💿📻🎼🎧 and play guitar 🎸.
 
 <details>
 <summary><b>My open source contributions</b></summary>
