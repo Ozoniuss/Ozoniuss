@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Personal [website](https://www.ozoniuss.com/me/) (may be down until I decide to pay cloud providers)
+💻 My [personal website](https://www.ozoniuss.com/me/) is up again because I found out I can use cloud providers without having to pay them (thank you [Backblaze B2 and Cloudflare](https://www.backblaze.com/blog/backblaze-and-cloudflare-partner-to-provide-free-data-transfer/)).
 
 - Avent of Code is right around the corner! Let's get ready: here's my [brand new repo](https://github.com/Ozoniuss/Advent-of-Code) and an [article I wrote](https://medium.com/@ozoniuss/preparing-for-advent-of-code-2023-8891a2df6f6c) about me getting ready ✍️
 - I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
