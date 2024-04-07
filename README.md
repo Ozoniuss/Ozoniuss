@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 💻 My [personal website](https://about.ozoniuss.com/) is up again because I found out I can use cloud providers without having to pay them (thank you [Backblaze B2 and Cloudflare](https://www.backblaze.com/blog/backblaze-and-cloudflare-partner-to-provide-free-data-transfer/)). The source code is also now [publicly available](https://github.com/Ozoniuss/aboutv2).
 
+- The first draft of my domain-driven design article 📰 is ready! Check out [this link](https://github.com/Ozoniuss/misc/blob/main/outbox/like.go) if you want to read it.
 - Avent of Code was definitely a ride this year, where I was forced to remember how waking up to go to school feels like. Check out my work for this year [here.](https://github.com/Ozoniuss/Advent-of-Code/tree/main/advent-of-code-2023) 
 - I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
 - My expense manager 💵 [Casheer](https://github.com/Ozoniuss/casheer) is shaping up, now coming with a shitty [UI](https://github.com/Ozoniuss/casheer/tree/main/ui) that is actually functional and I built on my own. I have lost the battle of trying to stay away from frontend.
