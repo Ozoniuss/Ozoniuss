@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - My [domain-driven design article](https://medium.com/@ozoniuss/implementing-the-outbox-pattern-from-scratch-by-following-ddd-9972eae4f1ab) 📰 is finally done! Check it out!
 - Avent of Code was definitely a ride this year, where I was forced to remember how waking up to go to school feels like. Check out my work for this year [here.](https://github.com/Ozoniuss/Advent-of-Code/tree/main/advent-of-code-2023) 
-- I enjoy implementing packages and small APIs 🔨. For example I wrote [configer](https://github.com/Ozoniuss/configer) to manage my configs similarly accross my projects.
 - My expense manager 💵 [Casheer](https://github.com/Ozoniuss/casheer) is shaping up, now coming with a shitty [UI](https://github.com/Ozoniuss/casheer/tree/main/ui) that is actually functional and I built on my own. I have lost the battle of trying to stay away from frontend.
 - Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? Check out some of the things from my [master's]([https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing](https://github.com/Ozoniuss/Masters-Projects/tree/main)) repository. The short program [context madness](https://github.com/Ozoniuss/misc/tree/main/context-madness) I wrote is also pretty cool.
 - As programmers, we sometimes get to working on pretty random stuff 💣, just for the fun of it. My [Misc](https://github.com/Ozoniuss/misc) repo contains those moments.
