@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 - https://github.com/microsoft/vscode/issues/203334 but no one seems to want this bug fixed :(
 - https://github.com/temporalio/samples-go/pull/342
 - https://github.com/schollz/croc/pull/749
+- https://github.com/schollz/croc/pull/847
   
 </details>
