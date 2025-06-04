@@ -1,5 +1,3 @@
-### 🦘
-
 Programmer at work. Tinkerer at home.
 
 <!--
