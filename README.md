@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 [personal website](https://about.ozoniuss.com/)
 
-- [genconfig](https://github.com/Ozoniuss/genconfig) is the only thing you need to set up your go configs.
+- [genconfig](https://github.com/Ozoniuss/genconfig) is the only thing you need to set up your Go configs
 - Finally, Go has a [data structure](https://github.com/Ozoniuss/tree) for binary search trees that also prints them nicely
 - If you like domain-driven design [this thing I wrote](https://medium.com/@ozoniuss/implementing-the-outbox-pattern-from-scratch-by-following-ddd-9972eae4f1ab) is for you
 - [Algorithms](https://github.com/Ozoniuss/Algorithms) has a whole bunch of things you want to avoid reading
