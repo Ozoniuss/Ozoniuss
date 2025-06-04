@@ -1,6 +1,6 @@
-### Hi there 🦘 (those who know me understand the emoji)
+### 🦘
 
-Welcome to my GitHub. There are interesting stuff here, feel free to explore.
+Programmer at work. Tinkerer at home.
 
 <!--
 **Ozoniuss/Ozoniuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 My [personal website](https://about.ozoniuss.com/) is up again because I found out I can use cloud providers without having to pay them (thank you [Backblaze B2 and Cloudflare](https://www.backblaze.com/blog/backblaze-and-cloudflare-partner-to-provide-free-data-transfer/)). The source code is also now [publicly available](https://github.com/Ozoniuss/aboutv2).
+💻 [personal website](https://about.ozoniuss.com/)
 
-- My [domain-driven design article](https://medium.com/@ozoniuss/implementing-the-outbox-pattern-from-scratch-by-following-ddd-9972eae4f1ab) 📰 is finally done! Check it out!
-- Avent of Code was definitely a ride this year, where I was forced to remember how waking up to go to school feels like. Check out my work for this year [here.](https://github.com/Ozoniuss/Advent-of-Code/tree/main/advent-of-code-2023) 
-- My expense manager 💵 [Casheer](https://github.com/Ozoniuss/casheer) is shaping up, now coming with a shitty [UI](https://github.com/Ozoniuss/casheer/tree/main/ui) that is actually functional and I built on my own. I have lost the battle of trying to stay away from frontend.
-- Do you like parallel 🤲, concurrent 🤝 and distributed 🙌 programming? Check out some of the things from my [master's]([https://github.com/Ozoniuss/Masters-Projects/tree/main/keyboard-processing](https://github.com/Ozoniuss/Masters-Projects/tree/main)) repository. The short program [context madness](https://github.com/Ozoniuss/misc/tree/main/context-madness) I wrote is also pretty cool.
-- As programmers, we sometimes get to working on pretty random stuff 💣, just for the fun of it. My [Misc](https://github.com/Ozoniuss/misc) repo contains those moments.
-- I'm more of a mathematician 📐, but I do enjoy solving coding problems 💻. Check out [my algorithms repository](https://github.com/Ozoniuss/Algorithms) to view some of those!
-- I love music 💿📻🎼🎧 and play guitar 🎸.
+- [genconfig](https://github.com/Ozoniuss/genconfig) is the only thing you need to set up your go configs.
+- Finally, Go has a [data structure](https://github.com/Ozoniuss/tree) for binary search trees that also prints them nicely
+- If you like domain-driven design [this thing I wrote](https://medium.com/@ozoniuss/implementing-the-outbox-pattern-from-scratch-by-following-ddd-9972eae4f1ab) is for you
+- [Algorithms](https://github.com/Ozoniuss/Algorithms) has a whole bunch of things you want to avoid reading
+- 💿📻🎼🎧🎸
 
 <details>
 <summary><b>My open source contributions</b></summary>
@@ -42,5 +40,7 @@ Here are some ideas to get you started:
 - https://github.com/schollz/croc/pull/749
 - https://github.com/schollz/croc/pull/847
 - https://github.com/SeleniumHQ/selenium/issues/15565
+- https://github.com/schollz/croc/pull/922
+- https://github.com/schollz/croc/pull/923
   
 </details>
