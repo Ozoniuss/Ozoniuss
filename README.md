@@ -1,27 +1,6 @@
-Programmer at work. Tinkerer at home.
-
-<!--
-**Ozoniuss/Ozoniuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 💻 [personal website](https://about.ozoniuss.com/)
 
-- [genconfig](https://github.com/Ozoniuss/genconfig) is the only thing you need to set up your Go configs
-- Finally, Go has a [data structure](https://github.com/Ozoniuss/tree) for binary search trees that also prints them nicely
-- If you like domain-driven design [this thing I wrote](https://medium.com/@ozoniuss/implementing-the-outbox-pattern-from-scratch-by-following-ddd-9972eae4f1ab) is for you
-- [Algorithms](https://github.com/Ozoniuss/Algorithms) has a whole bunch of things you want to avoid reading
-- 💿📻🎼🎧🎸
+🎸 [youtube](https://www.youtube.com/@ozoniuss1463)
 
 <details>
 <summary><b>My open source contributions</b></summary>
@@ -42,5 +21,10 @@ Here are some ideas to get you started:
 - https://github.com/schollz/croc/pull/923
 - https://github.com/temporalio/sdk-go/pull/1975
 - https://github.com/schollz/croc/pull/980
+- https://github.com/temporalio/sdk-go/issues/2364
+- https://github.com/tsurdilo/temporal-server-operations/pull/2
+- https://github.com/temporalio/sdk-go/pull/2338
   
 </details>
+
+Reach out at qscxzsewqazxcde@gmail.com (yes that is my real email).
