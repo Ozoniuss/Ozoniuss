@@ -19,6 +19,7 @@
 - https://github.com/schollz/croc/pull/749
 - https://github.com/schollz/croc/pull/847
 - https://github.com/SeleniumHQ/selenium/issues/15565
+- https://github.com/SeleniumHQ/seleniumhq.github.io/pull/2262
 - https://github.com/schollz/croc/pull/922
 - https://github.com/schollz/croc/pull/923
 - https://github.com/temporalio/sdk-go/pull/1975
