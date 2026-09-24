@@ -2,6 +2,8 @@
 
 🎸 [youtube](https://www.youtube.com/@ozoniuss1463)
 
+🐧 [coding problems](https://github.com/Ozoniuss/Algorithms) (yeah I really enjoy this)
+
 <details>
 <summary><b>My open source contributions</b></summary>
   
