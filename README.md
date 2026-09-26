@@ -1,3 +1,5 @@
+Just released my first VS Code extension, check it out [here](https://github.com/Ozoniuss/add-to-agent-context)!
+
 💻 [personal website](https://about.ozoniuss.com/)
 
 🎸 [youtube](https://www.youtube.com/@ozoniuss1463)
