@@ -29,6 +29,7 @@ Just released my first VS Code extension, check it out [here](https://github.com
 - https://github.com/temporalio/sdk-go/issues/2364
 - https://github.com/tsurdilo/temporal-server-operations/pull/2
 - https://github.com/temporalio/sdk-go/pull/2338
+- https://github.com/temporalio/documentation/pull/5372
   
 </details>
 
