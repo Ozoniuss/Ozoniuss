@@ -32,6 +32,8 @@
 - https://github.com/temporalio/documentation/pull/5372
 - https://github.com/temporalio/documentation-sdk-code-examples/pull/22
 - https://github.com/temporalio/documentation/pull/5491
+- https://github.com/temporalio/sdk-go/pull/2821
+- https://github.com/temporalio/sdk-go/pull/2823
   
 </details>
 
