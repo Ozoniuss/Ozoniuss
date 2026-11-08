@@ -34,6 +34,7 @@
 - https://github.com/temporalio/documentation/pull/5491
 - https://github.com/temporalio/sdk-go/pull/2821
 - https://github.com/temporalio/sdk-go/pull/2823
+- https://github.com/open-telemetry/opentelemetry.io/pull/12604
   
 </details>
 
