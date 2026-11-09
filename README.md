@@ -35,6 +35,9 @@
 - https://github.com/temporalio/sdk-go/pull/2821
 - https://github.com/temporalio/sdk-go/pull/2823
 - https://github.com/open-telemetry/opentelemetry.io/pull/12604
+- https://github.com/open-telemetry/opentelemetry.io/issues/12616
+- https://github.com/open-telemetry/opentelemetry.io/issues/12617
+- https://github.com/open-telemetry/opentelemetry.io/issues/12618
   
 </details>
 
