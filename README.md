@@ -10,6 +10,7 @@
 <summary><b>My open source contributions</b></summary>
 
 - https://github.com/VictoriaMetrics/VictoriaLogs/pull/1953
+- https://github.com/open-telemetry/opentelemetry.io/pull/12778
 - https://github.com/open-telemetry/opentelemetry.io/issues/12618
 - https://github.com/open-telemetry/opentelemetry.io/issues/12617
 - https://github.com/open-telemetry/opentelemetry.io/issues/12616
