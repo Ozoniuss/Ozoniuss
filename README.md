@@ -38,6 +38,7 @@
 - https://github.com/open-telemetry/opentelemetry.io/issues/12616
 - https://github.com/open-telemetry/opentelemetry.io/issues/12617
 - https://github.com/open-telemetry/opentelemetry.io/issues/12618
+- https://github.com/VictoriaMetrics/VictoriaLogs/pull/1953
   
 </details>
 
