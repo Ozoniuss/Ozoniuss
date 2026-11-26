@@ -5,6 +5,8 @@
 🎸 [youtube](https://www.youtube.com/@ozoniuss1463)
 
 🐧 [coding problems](https://github.com/Ozoniuss/Algorithms) (yeah I really enjoy this)
+  
+🖋️ My article featured on [Go Weekly](https://golangweekly.com/issues/487) (somehow I only found out 3 years later)
 
 <details>
 <summary><b>My open source contributions</b></summary>
